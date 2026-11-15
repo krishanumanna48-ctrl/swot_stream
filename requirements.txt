@@ -1,0 +1,25 @@
+# Swot-Stream dependencies — Python 3.10+
+
+# Virtual Data Layout Engine
+kerchunk>=0.2.0
+fsspec>=2023.12.0
+h5py>=3.10.0
+
+# Hardware Monitor & GC
+psutil>=5.9.0
+
+# Data & Statistical Stack
+numpy>=1.24.0
+xarray>=2023.05.0
+zarr>=2.16.0
+scipy>=1.11.0
+
+# Async Networking
+aiohttp>=3.9.0
+
+# NASA EarthAccess
+earthaccess>=0.6.0
+
+# Interactive Frontend
+streamlit>=1.30.0
+plotly>=5.18.0

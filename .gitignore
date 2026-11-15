@@ -1,0 +1,7 @@
+__pycache__/
+cache/
+.env
+.netrc
+_netrc
+.dodsrc
+*.pyc
